@@ -9,5 +9,5 @@
 - matplotlib.pyplot
 
 
-./운동선수 데이터 분석.png
 
+![readme](https://github.com/hyojun03/WPclass_term_prjct/assets/143721160/3fb2af22-6126-416d-ab72-0ee81bdc9cd2)
