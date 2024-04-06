@@ -7,5 +7,7 @@
 ## Used lib 
 - pandas
 - matplotlib.pyplot
-![대체 텍스트](./운동선수 데이터 분석.png
-)
+
+
+## ![대체 텍스트](./운동선수 데이터 분석.png
+
